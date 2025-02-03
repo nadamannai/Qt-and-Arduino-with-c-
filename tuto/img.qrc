@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ress">
+        <file>img.jpeg</file>
+        <file>weather.jpg</file>
+    </qresource>
+</RCC>
