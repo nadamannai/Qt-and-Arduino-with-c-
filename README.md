@@ -1,1 +1,1 @@
-"# Qt-c-and-arduino" 
+Qt application using c++ and arduino 
